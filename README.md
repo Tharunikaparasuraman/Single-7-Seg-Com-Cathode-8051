@@ -10,10 +10,6 @@ This project demonstrates how to interface a Single 7-Segment Common Cathode dis
 ## Components
 - AT89C51 Microcontroller
 - Single 7-Segment Common Cathode Display
-- Resistors
-- Crystal Oscillator
-- Capacitors
-- Power Supply
 
 ## Files
 - `single 7 seg common cathode.c` – Embedded C source code
